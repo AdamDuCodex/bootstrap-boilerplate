@@ -35,3 +35,5 @@ This is a paragraph. It'made up of sentences. Spelling is hard.
 ```
 <a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
 ```
+
+To see the version of GitHub that you are using, type `git --version`.
