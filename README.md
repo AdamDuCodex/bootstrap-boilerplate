@@ -26,3 +26,12 @@ This is a paragraph. It'made up of sentences. Spelling is hard.
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 <a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
+
+|Column 1|Column 2|Column 3|
+|---|---|---|
+|Mike|Jackie|Joslynn|
+|Vanderpool|Vanderpool|Smith|
+
+```
+<a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
+```
