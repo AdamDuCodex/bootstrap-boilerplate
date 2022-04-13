@@ -1,39 +1,12 @@
 # bootstrap-boilerplate
 
-## This is a level 2 heading
+## Description
 
-This is a paragraph. It'made up of sentences. Spelling is hard.
+The boilerplate-template contains an index.html with a style.css file in a CSS folder. It also contains an empty IMG and JS folder as well.
 
-### This is an ordered list
+### Folders/Files
 
-1. Walk 5 miles.
-2. Turn right.
-3. Walk 10 miles.
-4. Turn left.
-5. Walk 1 mile.
-6. You made it!
-
-### This is an unordered list
-
-* Apples
-* Oranges
-* Bread
-
-> This is a blockquote.
-
----
-
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-
-<a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
-
-|Column 1|Column 2|Column 3|
-|---|---|---|
-|Mike|Jackie|Joslynn|
-|Vanderpool|Vanderpool|Smith|
-
-```
-<a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
-```
-
-To see the version of GitHub that you are using, type `git --version`.
+1. Index.html
+2. CSS/style.css
+3. IMG Folder
+4. JS Folder
