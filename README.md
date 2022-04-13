@@ -8,5 +8,5 @@ The boilerplate-template contains an index.html with a style.css file in a CSS f
 
 1. Index.html
 2. CSS/style.css
-3. IMG Folder
-4. JS Folder
+3. IMG Folder (empty)
+4. JS Folder (empty)
